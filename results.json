@@ -1,0 +1,13 @@
+{
+  "complaints_total": 42363,
+  "companies": 11,
+  "capone_complaints": 7058,
+  "opened_without_consent_share_capone": 0.13587418532162085,
+  "opened_without_consent_share_peers": 0.06902704999291885,
+  "opened_without_consent_ratio": 1.9684194143536413,
+  "issues_compared": 12,
+  "issues_capone_trails": 11,
+  "extra_relief_if_matched_peer_rates": 684,
+  "overall_relief_rate_capone": 0.25715500141683195,
+  "overall_relief_rate_peers": 0.3617334655147996
+}
